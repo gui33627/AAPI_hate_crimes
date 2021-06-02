@@ -25,10 +25,10 @@ The goal of our study is to analyze the top 6 U.S. news media coverage on anti-A
 ![](./img/figure1.png)
 * Figure 1: The Number of Times the Tweets Containing “Asian(s)” Appeared over Time
 
-![](./img/Rplot.svg)
-
-* Figure 2: Top 200 Most Frequently Used Words in Tweets predicted as related to reporting of AAPI hate crimes
-
+<center>
+![](./img/Rplot.svg) {width=50%}
+[Figure 2: Top 200 Most Frequently Used Words in Tweets predicted as related to reporting of AAPI hate crimes]
+</center>
 ## Data
 
 We pulled the tweets of six local Asian news media accounts, NextShark, AAPI Data, Stop AAPI Hate, CAA San Francisco, Asian American Legal, and WashTheHate, and manually labeled the tweets as related to AAPI hate crime issues or not for the training set. As for the testing set, we pulled the tweets of the six major U.S. news media that are most-followed on Twitter, i.e. CNN, the New York Times, Fox News, the Wall Street Journal, TIME, and the Washington Post. Using the ‘academictwitteR’4 package, we pulled the tweets of these twelve accounts that were made between March 17, 2020 and March 30, 2021. The raw data can be accessed [here.](https://drive.google.com/drive/folders/19fAt2l2LK0muec4bc0MzzRKZ4Vf0ou_Q?usp=sharing)
