@@ -3,12 +3,14 @@
 
 # Does Mainstream Media Recognize the Surge in Hate Crimes Against Asian Americans?
 
-## Text Analysis using Twitter Data
+## –Text Analysis using Twitter Data
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-![](./img/stop_aapi_hate.png) \#\# Description
+![](./img/stop_aapi_hate.png)
+
+## Description
 
 The goal of our study is to analyze the top 6 U.S. news media coverage
 on anti-Asian hate crimes and understand their efforts in combating
@@ -28,7 +30,7 @@ against Asian Americans.
 ![](./img/figure1.png) \* Figure 1: The Number of Times the Tweets
 Containing “Asian(s)” Appeared over Time
 
-![](./img/figure2.png)
+![](./img/Rplot.svg)
 
 -   Figure 2: Top 200 Most Frequently Used Words in Tweets predicted as
     related to reporting of AAPI hate crimes
