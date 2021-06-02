@@ -22,12 +22,13 @@ knitr::opts_chunk$set(
 
 The goal of our study is to analyze the top 6 U.S. news media coverage on anti-Asian hate crimes and understand their efforts in combating against the rising tide of coronavirus-related discrimination and violence against Asian Americans. We performed exploratory analysis on the Twitter data collected between March 2020 and March 2021 and trained two supervised machine learning models to predict whether a tweet is related to AAPI hate crime or not. From the model result, we found that between March 2020 and March 2021, these media in total have less than 1% of their tweets that potentially talked about anti-Asian hate crimes. Especially prior to the Atlanta shooting event, the news media was silent in reporting hate crimes against Asian Americans despite the alarming rate of incidents.This emphasized the minimal role news media have played in combating the surge in discriminations and violence against Asian Americans.
 
-![](./img/figure1.png)
-* Figure 1: The Number of Times the Tweets Containing “Asian(s)” Appeared over Time
-
 <center>
-![](./img/Rplot.svg) {width=50%}
-[Figure 2: Top 200 Most Frequently Used Words in Tweets predicted as related to reporting of AAPI hate crimes]
+![](./img/figure1.png)
+*Figure 1: The Number of Times the Tweets Containing “Asian(s)” Appeared over Time*
+
+![](./img/figure2.png){width=500}
+
+*Figure 2: Top 200 Most Frequently Used Words in Tweets predicted as related to reporting of AAPI hate crimes*
 </center>
 ## Data
 

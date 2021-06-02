@@ -27,13 +27,15 @@ alarming rate of incidents.This emphasized the minimal role news media
 have played in combating the surge in discriminations and violence
 against Asian Americans.
 
-![](./img/figure1.png) \* Figure 1: The Number of Times the Tweets
-Containing “Asian(s)” Appeared over Time
-
 <center>
-![](./img/Rplot.svg) {width=50%} \[Figure 2: Top 200 Most Frequently
-Used Words in Tweets predicted as related to reporting of AAPI hate
-crimes\]
+
+![](./img/figure1.png) *Figure 1: The Number of Times the Tweets
+Containing “Asian(s)” Appeared over Time*
+
+<img src="./img/figure2.png" width="500" />
+
+*Figure 2: Top 200 Most Frequently Used Words in Tweets predicted as
+related to reporting of AAPI hate crimes*
 </center>
 
 ## Data
