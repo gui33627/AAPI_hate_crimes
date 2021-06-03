@@ -3,7 +3,7 @@
 
 # Does Mainstream Media Recognize the Surge in Hate Crimes Against Asian Americans?
 
-## –Text Analysis using Twitter Data
+## — Text Analysis using Twitter Data
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -12,7 +12,7 @@
 
 ## Description
 
-The goal of our study is to analyze the top 6 U.S. news media coverage
+The goal of the study is to analyze the top 6 U.S. news media coverage
 on anti-Asian hate crimes and understand their efforts in combating
 against the rising tide of coronavirus-related discrimination and
 violence against Asian Americans. We performed exploratory analysis on
@@ -23,9 +23,11 @@ between March 2020 and March 2021, these media in total have less than
 1% of their tweets that potentially talked about anti-Asian hate crimes.
 Especially prior to the Atlanta shooting event, the news media was
 silent in reporting hate crimes against Asian Americans despite the
-alarming rate of incidents.This emphasized the minimal role news media
+alarming rate of incidents. This emphasized the minimal role news media
 have played in combating the surge in discriminations and violence
 against Asian Americans.
+
+(Final project for the Messy Data and Machine Learning class at NYU.)
 
 <center>
 
@@ -42,14 +44,13 @@ related to reporting of AAPI hate crimes*
 
 We pulled the tweets of six local Asian news media accounts, NextShark,
 AAPI Data, Stop AAPI Hate, CAA San Francisco, Asian American Legal, and
-WashTheHate, and manually labeled the tweets as related to AAPI hate
-crime issues or not for the training set. As for the testing set, we
-pulled the tweets of the six major U.S. news media that are
-most-followed on Twitter, i.e. CNN, the New York Times, Fox News, the
-Wall Street Journal, TIME, and the Washington Post. Using the
-‘academictwitteR’4 package, we pulled the tweets of these twelve
-accounts that were made between March 17, 2020 and March 30, 2021. The
-raw data can be accessed
+WashTheHate, and manually labeled them as related to AAPI hate crime
+issues or not for the training set. The testing set is the tweets of the
+six major U.S. news media that are most-followed on Twitter, i.e. CNN,
+the New York Times, Fox News, the Wall Street Journal, TIME, and the
+Washington Post. Using the ‘academictwitteR’ package, we pulled the
+tweets of these twelve accounts that were made between March 17, 2020
+and March 30, 2021. The raw data can be accessed
 [here.](https://drive.google.com/drive/folders/19fAt2l2LK0muec4bc0MzzRKZ4Vf0ou_Q?usp=sharing)
 
 ## Folder structure
